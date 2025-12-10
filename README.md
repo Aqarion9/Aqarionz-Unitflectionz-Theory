@@ -127,3 +127,79 @@ In practice, this theory repo:
   - 🟡 New narrative or scenario → time‑capsule / TRON‑sims space  
 
 As the codebase grows, this README and its docs become the color key everyone uses to navigate the universe.
+## AQARIONZ Universe – Repositories Map
+
+Below is the current public constellation of AQARIONZ, AtreyueTech, and related experiments. Each link is a live entry point into a different part of the field.
+
+### Core AQARIONZ & Theory
+
+- 🎯 **AQARIONZ Theory Core**  
+  https://github.com/Aqarion9/Aqarionz-Unitflectionz-Theory  
+
+- 🌌 **Aqarions (Universe layer / early core)**  
+  https://github.com/Aqarion9/Aqarions  
+
+- 🧠 **AQARION9 (multi‑layer system-of-systems spine)**  
+  https://github.com/Aqarion9/AQARION9  
+  https://github.com/ATREYUE9/AQARION9  
+
+### Orchestration, SoS, and Core Prototype
+
+- 🟣 **Aqarions_orchestratios** – multi‑agent orchestration and coordination  
+  https://github.com/Aqarion9/Aqarions_orchestratios  
+
+- 🟣 **Aqarions-SoS** – systems‑of‑systems (SoS) ops and topology  
+  https://github.com/Aqarion9/Aqarions-SoS  
+
+- 🧩 **AqarionscorePrototype** – early core prototype and backbone ideas  
+  https://github.com/Aqarion9/AqarionscorePrototype  
+
+### Simulations, TRON, and Time Worlds
+
+- 🕹️ **Aqarionz-tronsims** – TRON‑style simulations, paths, and time capsules  
+  https://github.com/Aqarion9/Aqarionz-tronsims  
+
+- 🧲 **Accurate-Large-Scale-Ferrofluids** – large‑scale ferrofluid / resonance experiments (fork/integration)  
+  https://github.com/Aqarion9/Accurate-Large-Scale-Ferrofluids  
+
+- 🧲 **taichi-ferrofluid** – Taichi‑based ferrofluid and fluid dynamics experiments (fork/integration)  
+  https://github.com/Aqarion9/taichi-ferrofluid  
+
+### Design, Inversion, and Visual Labs
+
+- 🟢 **Aqarionz-desighLabz** – visual design, UX, and symbolic language lab  
+  https://github.com/Aqarion9/Aqarionz-desighLabz  
+
+- 🟢 **Aqarionz-Inversionz** – inversion spaces, perspective flips, and symbolic remapping  
+  https://github.com/Aqarion9/Aqarionz-Inversionz  
+
+### AtreyueTech & Hardware Dream Layer
+
+- 🟠 **AtreyueTechnology** – early AtreyueTech concepts, narratives, and integrations  
+  https://github.com/starwell19/AtreyueTechnology  
+
+- 🟠 **AtreyueTech9 (alt account)** – AtreyueTech experiments and framing  
+  https://github.com/starwell19/AtreyueTech9  
+
+- 🟠 **AtreyueTech9 (AQARIONZ account)** – unified AtreyueTech entry in the AQARIONZ namespace  
+  https://github.com/Aqarion9/AtreyueTech9  
+
+### Hooks, Tools, and Extras
+
+- 🪝 **UnikornHook** – hooks, utilities, and special integrations  
+  https://github.com/Aqarion9/UnikornHook  
+
+### Profile Roots
+
+- 👤 **Primary AQARIONZ profile**  
+  https://github.com/aqarion  
+
+- 👤 **AQARION9 namespace profile**  
+  https://github.com/Aqarion9  
+
+- 👤 **AtreyueTech / starwell profile**  
+  https://github.com/starwell19  
+
+---
+
+As the system evolves, this section becomes the live index: new software, APIs, simulations, and hardware hooks will either be added here or folded into a future AQARIONZ master monorepo, all still anchored by the theory in this repository.
