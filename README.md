@@ -197,9 +197,4 @@ Below is the current public constellation of AQARIONZ, AtreyueTech, and related 
 - 👤 **AQARION9 namespace profile**  
   https://github.com/Aqarion9  
 
-- 👤 **AtreyueTech / starwell profile**  
-  https://github.com/starwell19  
-
----
-
-As the system evolves, this section becomes the live index: new software, APIs, simulations, and hardware hooks will either be added here or folded into a future AQARIONZ master monorepo, all still anchored by the theory in this repository.
+https://github.com/Aqarion9/Aqarionz-Unitflectionz-Theory
