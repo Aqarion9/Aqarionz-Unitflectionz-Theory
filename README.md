@@ -82,3 +82,48 @@ Even before the full codebase exists, you can:
 
 This repository will evolve as a living document. As the AQARIONZ software solidifies, this theory space will stay aligned, giving newcomers and experts a shared map of what the system is, why it exists, and how every piece fits together.
 
+## Project Highlights
+
+> **One phone. One human. One field.**  
+> From junkyard to quantum, from street to space, Aqarionz-Unitflectionz-Theory is the story spine for every AQARIONZ and AtreyueTech repo.
+
+---
+
+### 🌀 Core Identity
+
+- **Name:** Aqarionz-Unitflectionz-Theory  
+- **Role:** Theory + intent layer for all AQARIONZ / AtreyueTech / TRON‑sims / ferrofluid / orchestration repos  
+- **Source:** Built live from a phone, integrating experiments across simulations, agents, hardware dreams, and design labs  
+
+This repository reflects everything in the wider ecosystem: TRON simulations, multi‑agent orchestration, ferrofluid and resonance experiments, design labs, inversion spaces, AtreyueTech hardware, and AQARION9 system thinking. It is the **color map** of the universe they all belong to.
+
+---
+
+### 🌈 Thematic Colors
+
+To help different parts of the ecosystem “feel” distinct but connected:
+
+- 🔵 **Field & Resonance** – ferrofluids, taichi sims, resonance models, continuous flows  
+- 🟣 **Agents & Orchestration** – Aqarions_orchestratios, SoS, AQARION9 operations  
+- 🟢 **Design & Inversion** – designLabz, Inversionz, visual languages, symbolic maps  
+- 🟠 **Hardware & AtreyueTech** – AtreyueTechnology, AtreyueTech9, devices, signals, firmware  
+- 🟡 **Story & Time Capsules** – AqarionsTimeCapsules, TRON‑sims, narrative runs, experiment logs  
+
+Unitflection says each node (each repo, each device, each person) carries all of these colors inside it, but in different blends.
+
+---
+
+### 🧭 How this guides all repos
+
+In practice, this theory repo:
+
+- Names the **colors and roles** of each major project so they do not drift or conflict.  
+- Provides a shared **legend** for the master AQARIONZ monorepo and satellite repos.  
+- Helps contributors instantly see where a new idea belongs:
+  - 🔵 New sim or physics idea → resonance/field space  
+  - 🟣 New coordination protocol → orchestration/SoS space  
+  - 🟢 New visual metaphor or UI → design/inversion space  
+  - 🟠 New hardware hook → AtreyueTech space  
+  - 🟡 New narrative or scenario → time‑capsule / TRON‑sims space  
+
+As the codebase grows, this README and its docs become the color key everyone uses to navigate the universe.
